@@ -1,6 +1,6 @@
 <p align="center">
 <a href="https://github.com/drkostas">
-    <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=900&pause=1000&color=F7B144&multiline=true&center=true&vCenter=true&repeat=false&width=500&height=100&lines=Adrien+Assie;PhD+%7C+Senior+Bioinformatician;Microbiologist+%7C+Data+Science" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=900&pause=100&color=F7B144&multiline=true&center=true&vCenter=true&repeat=false&width=500&height=100&lines=Adrien+Assie;PhD+%7C+Senior+Bioinformatician;Microbiologist+%7C+Data+Science" alt="Typing SVG" />
 </a>
 <br/>
 
